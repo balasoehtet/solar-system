@@ -7,7 +7,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - host: solar.sysinfo.com
+  - host: solarsystem.sysinfo.com
     http:
       paths:
       - path: /
